@@ -178,5 +178,5 @@ class TestKauppa(unittest.TestCase):
         pankki_mock.tilisiirto.assert_called_with("pekka", 42, "12345", "33333-44455", ostoskorin_summa)    
         
         
-        ##
+        ###
         
